@@ -9,9 +9,7 @@ For tasks 1-2 you are free to choose Python 3.x or Java 11.
 * If using Java, please use Java 11 and the included build.gradle
 * Code should be covered with adequate tests
 * Code should be readable and clean
-* For question 3, you can provide a (clear) photo/scan of your diagram, or use https://dbdiagram.io/ and share your diagram.
-* For question 4 please provide a .sql file with your queries inside. Please state which SQL dialect you used.
-* For question 5 please include a text file containing your answer.
+* For task 3-5 please provide a example files that each tool would use and an explanation of alternative tools that you may use
 
 ### Task 1: 
 Implement a function that takes three lists of strings as parameters. The first argument is a list of words that can be used as a subject in a sentence, the second – as a predicate, and the third – as an object. The function must return a string that contains all the sentences in the alphabetical order that can be constructed using the provided subjects, predicates and objects. (Note that the words in the list of subjects are not necessarily in the alphabetical order, and the same applies to the lists of predicates and objects.) Each sentence must be ended by ”.” and the sentences must be separated by ” ”. (Alphabetical order has usual and common meaning, but if you have doubts about it, see test cases below for examples.)
